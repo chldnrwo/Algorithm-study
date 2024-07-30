@@ -1,6 +1,7 @@
+package BOJ2024_하반기;
 import java.util.*;
 
-public class Main {
+public class BOJ1343 {
 	public static void main(String[] args) throws Exception {
 		Scanner in = new Scanner(System.in);
 		String s = in.next();
